@@ -1,10 +1,10 @@
 [
     {
-        "id": 805437131,
+        "id": null,
         "title": "热伤风",
         "isCover": false,
-        "rank": 1,
         "date": "2021-09-10 17:05",
+        "rank": 1,
         "point": 162803,
         "view": 15449,
         "favorite": 2974,
@@ -14,11 +14,11 @@
         "corrB": 48.13
     },
     {
-        "id": 675233259,
+        "id": null,
         "title": "饿魔烧酒",
         "isCover": false,
-        "rank": 2,
         "date": "2021-09-01 18:30",
+        "rank": 2,
         "point": 131621,
         "view": 196140,
         "favorite": 5978,
@@ -28,11 +28,11 @@
         "corrB": 7.62
     },
     {
-        "id": 420132589,
+        "id": null,
         "title": "出山",
         "isCover": true,
-        "rank": 3,
         "date": "2021-09-01 11:18",
+        "rank": 3,
         "point": 89412,
         "view": 109717,
         "favorite": 3833,
@@ -42,11 +42,11 @@
         "corrB": 8.73
     },
     {
-        "id": 720197082,
+        "id": null,
         "title": "人造心脏",
         "isCover": false,
-        "rank": 4,
         "date": "2021-08-28 17:30",
+        "rank": 4,
         "point": 77594,
         "view": 13754,
         "favorite": 1886,
@@ -56,11 +56,11 @@
         "corrB": 34.28
     },
     {
-        "id": 762862251,
+        "id": null,
         "title": "恋爱CHOCO",
         "isCover": false,
-        "rank": 5,
         "date": "2021-09-05 10:00",
+        "rank": 5,
         "point": 73017,
         "view": 5936,
         "favorite": 1254,
@@ -70,11 +70,11 @@
         "corrB": 50.0
     },
     {
-        "id": 717426957,
+        "id": null,
         "title": "畸形维纳斯",
         "isCover": false,
-        "rank": 6,
         "date": "2021-08-19 18:30",
+        "rank": 6,
         "point": 66584,
         "view": 15308,
         "favorite": 1795,
@@ -84,11 +84,11 @@
         "corrB": 29.31
     },
     {
-        "id": 335131083,
+        "id": null,
         "title": "荒唐",
         "isCover": false,
-        "rank": 7,
         "date": "2021-09-03 18:00",
+        "rank": 7,
         "point": 65597,
         "view": 11826,
         "favorite": 1568,
@@ -98,11 +98,11 @@
         "corrB": 33.15
     },
     {
-        "id": 720376349,
+        "id": null,
         "title": "无名之辈",
         "isCover": true,
-        "rank": 8,
         "date": "2021-09-09 11:00",
+        "rank": 8,
         "point": 63508,
         "view": 50123,
         "favorite": 2252,
@@ -112,11 +112,11 @@
         "corrB": 11.23
     },
     {
-        "id": 335132186,
+        "id": null,
         "title": "予海",
         "isCover": false,
-        "rank": 9,
         "date": "2021-08-31 13:00",
+        "rank": 9,
         "point": 43899,
         "view": 6256,
         "favorite": 956,
@@ -126,11 +126,11 @@
         "corrB": 38.2
     },
     {
-        "id": 250360179,
+        "id": null,
         "title": "化作蓝色的泡沫",
         "isCover": false,
-        "rank": 10,
         "date": "2021-09-04 12:05",
+        "rank": 10,
         "point": 41649,
         "view": 4238,
         "favorite": 774,
@@ -140,11 +140,11 @@
         "corrB": 45.66
     },
     {
-        "id": 459693843,
+        "id": null,
         "title": "哈利波特学院印象曲·拉文克劳",
         "isCover": false,
-        "rank": 11,
         "date": "2021-03-20 12:00",
+        "rank": 11,
         "point": 40666,
         "view": 33168,
         "favorite": 1629,
@@ -154,11 +154,11 @@
         "corrB": 12.28
     },
     {
-        "id": 804929854,
+        "id": null,
         "title": "千本樱",
         "isCover": true,
-        "rank": 12,
         "date": "2021-08-19 23:14",
+        "rank": 12,
         "point": 39915,
         "view": 31908,
         "favorite": 1442,
@@ -168,11 +168,11 @@
         "corrB": 11.3
     },
     {
-        "id": 932694413,
+        "id": null,
         "title": "绝望罪",
         "isCover": false,
-        "rank": 13,
         "date": "2021-08-28 19:00",
+        "rank": 13,
         "point": 34927,
         "view": 7963,
         "favorite": 918,
@@ -185,8 +185,8 @@
         "id": 43426592,
         "title": "勾指起誓",
         "isCover": false,
-        "rank": 14,
         "date": "2019-02-13 22:09",
+        "rank": 14,
         "point": 33281,
         "view": 55603,
         "favorite": 1343,
@@ -196,11 +196,11 @@
         "corrB": 6.04
     },
     {
-        "id": 840428043,
+        "id": null,
         "title": "哈利波特学院印象曲·格兰芬多",
         "isCover": false,
-        "rank": 15,
         "date": "2020-04-25 12:00",
+        "rank": 15,
         "point": 26471,
         "view": 19176,
         "favorite": 921,
@@ -210,11 +210,11 @@
         "corrB": 12.01
     },
     {
-        "id": 207769162,
+        "id": null,
         "title": "老街北",
         "isCover": true,
-        "rank": 16,
         "date": "2021-09-03 22:57",
+        "rank": 16,
         "point": 23793,
         "view": 4296,
         "favorite": 551,
@@ -224,11 +224,11 @@
         "corrB": 32.06
     },
     {
-        "id": 804790969,
+        "id": null,
         "title": "Go Away",
         "isCover": false,
-        "rank": 17,
         "date": "2021-08-15 18:00",
+        "rank": 17,
         "point": 23472,
         "view": 5305,
         "favorite": 614,
@@ -238,11 +238,11 @@
         "corrB": 28.93
     },
     {
-        "id": 462390345,
+        "id": null,
         "title": "向光",
         "isCover": false,
-        "rank": 18,
         "date": "2021-08-20 17:30",
+        "rank": 18,
         "point": 22025,
         "view": 3529,
         "favorite": 507,
@@ -252,11 +252,11 @@
         "corrB": 35.92
     },
     {
-        "id": 932966070,
+        "id": null,
         "title": "九歌·国殇",
         "isCover": false,
-        "rank": 19,
         "date": "2021-09-10 11:41",
+        "rank": 19,
         "point": 21894,
         "view": 6634,
         "favorite": 579,
@@ -266,11 +266,11 @@
         "corrB": 21.82
     },
     {
-        "id": 420205056,
+        "id": null,
         "title": "创作探险家",
         "isCover": false,
-        "rank": 20,
         "date": "2021-09-01 18:00",
+        "rank": 20,
         "point": 21534,
         "view": 7243,
         "favorite": 620,
@@ -280,11 +280,11 @@
         "corrB": 21.4
     },
     {
-        "id": 462290172,
+        "id": null,
         "title": "心脏钥匙",
         "isCover": false,
-        "rank": 21,
         "date": "2021-08-14 12:00",
+        "rank": 21,
         "point": 20382,
         "view": 8338,
         "favorite": 624,
@@ -294,11 +294,11 @@
         "corrB": 18.71
     },
     {
-        "id": 505364327,
+        "id": null,
         "title": "我买了一颗小星球。",
         "isCover": false,
-        "rank": 22,
         "date": "2021-09-07 05:31",
+        "rank": 22,
         "point": 19043,
         "view": 1926,
         "favorite": 347,
@@ -308,11 +308,11 @@
         "corrB": 45.04
     },
     {
-        "id": 890205302,
+        "id": null,
         "title": "Bloody Roses血玫瑰",
         "isCover": false,
-        "rank": 23,
         "date": "2021-09-01 19:10",
+        "rank": 23,
         "point": 18522,
         "view": 4636,
         "favorite": 497,
@@ -322,11 +322,11 @@
         "corrB": 26.8
     },
     {
-        "id": 632428557,
+        "id": null,
         "title": "循星",
         "isCover": false,
-        "rank": 24,
         "date": "2021-08-19 16:00",
+        "rank": 24,
         "point": 18187,
         "view": 3714,
         "favorite": 457,
@@ -336,11 +336,11 @@
         "corrB": 30.76
     },
     {
-        "id": 975230632,
+        "id": null,
         "title": "跨时空日记",
         "isCover": false,
-        "rank": 25,
         "date": "2021-08-31 20:30",
+        "rank": 25,
         "point": 17326,
         "view": 8757,
         "favorite": 519,
@@ -350,11 +350,11 @@
         "corrB": 14.82
     },
     {
-        "id": 717842135,
+        "id": null,
         "title": "羽落零音",
         "isCover": false,
-        "rank": 26,
         "date": "2021-09-04 00:00",
+        "rank": 26,
         "point": 17083,
         "view": 2679,
         "favorite": 376,
@@ -364,11 +364,11 @@
         "corrB": 35.09
     },
     {
-        "id": 632697180,
+        "id": null,
         "title": "拥我",
         "isCover": false,
-        "rank": 27,
         "date": "2021-08-28 12:00",
+        "rank": 27,
         "point": 16964,
         "view": 3426,
         "favorite": 428,
@@ -378,11 +378,11 @@
         "corrB": 31.23
     },
     {
-        "id": 505022659,
+        "id": null,
         "title": "拆东墙",
         "isCover": true,
-        "rank": 28,
         "date": "2021-08-26 10:00",
+        "rank": 28,
         "point": 15885,
         "view": 16835,
         "favorite": 419,
@@ -392,11 +392,11 @@
         "corrB": 6.22
     },
     {
-        "id": 250208655,
+        "id": null,
         "title": "Ra in bar",
         "isCover": false,
-        "rank": 29,
         "date": "2021-08-31 00:00",
+        "rank": 29,
         "point": 15332,
         "view": 3012,
         "favorite": 378,
@@ -406,11 +406,11 @@
         "corrB": 31.37
     },
     {
-        "id": 762258201,
+        "id": null,
         "title": "我的稻草人",
         "isCover": true,
-        "rank": 30,
         "date": "2021-08-15 17:20",
+        "rank": 30,
         "point": 14827,
         "view": 8323,
         "favorite": 447,
@@ -420,11 +420,11 @@
         "corrB": 13.43
     },
     {
-        "id": 932831700,
+        "id": null,
         "title": "我不复归返",
         "isCover": false,
-        "rank": 36,
         "date": "2021-09-05 12:00",
+        "rank": 36,
         "point": 12287,
         "view": 974,
         "favorite": 213,
@@ -434,11 +434,11 @@
         "corrB": 50.0
     },
     {
-        "id": 632767805,
+        "id": null,
         "title": "愚笨至极",
         "isCover": false,
-        "rank": 86,
         "date": "2021-09-05 13:40",
+        "rank": 86,
         "point": 4304,
         "view": 679,
         "favorite": 95,
@@ -448,11 +448,11 @@
         "corrB": 34.98
     },
     {
-        "id": 932879154,
+        "id": null,
         "title": "REDO;",
         "isCover": true,
-        "rank": 192,
         "date": "2021-09-10 19:27",
+        "rank": 192,
         "point": 1870,
         "view": 135,
         "favorite": 32,

@@ -1,10 +1,10 @@
 [
     {
-        "id": 421131494,
+        "id": null,
         "title": "晴天掩饰雨",
         "isCover": false,
+        "date": "2021-10-23 12:00",
         "rank": 1,
-        "date": "2021/10/23 12:00",
         "point": 169898,
         "view": 24754,
         "favorite": 3776,
@@ -14,11 +14,11 @@
         "corrB": 38.14
     },
     {
-        "id": 506318410,
+        "id": null,
         "title": "嘤嘤大作战",
         "isCover": false,
+        "date": "2021-10-29 18:00",
         "rank": 2,
-        "date": "2021/10/29 18:00",
         "point": 145250,
         "view": 13855,
         "favorite": 2656,
@@ -28,11 +28,11 @@
         "corrB": 47.92
     },
     {
-        "id": 891142323,
+        "id": null,
         "title": "霜降",
         "isCover": false,
+        "date": "2021-10-23 19:10",
         "rank": 3,
-        "date": "2021/10/23 19:10",
         "point": 108299,
         "view": 26978,
         "favorite": 2934,
@@ -42,11 +42,11 @@
         "corrB": 27.19
     },
     {
-        "id": 250770472,
+        "id": null,
         "title": "Forever friends Yes!",
         "isCover": false,
+        "date": "2021-10-02 20:55",
         "rank": 4,
-        "date": "2021/10/02 20:55",
         "point": 68727,
         "view": 14375,
         "favorite": 1769,
@@ -56,11 +56,11 @@
         "corrB": 30.77
     },
     {
-        "id": 459693843,
+        "id": null,
         "title": "哈利波特学院印象曲·拉文克劳",
         "isCover": false,
+        "date": "2021-03-20 12:00",
         "rank": 5,
-        "date": "2021/03/20 12:00",
         "point": 56906,
         "view": 49837,
         "favorite": 2241,
@@ -70,11 +70,11 @@
         "corrB": 11.24
     },
     {
-        "id": 421196448,
+        "id": null,
         "title": "一行死去的夏天",
         "isCover": false,
+        "date": "2021-10-22 19:30",
         "rank": 6,
-        "date": "2021/10/22 19:30",
         "point": 52184,
         "view": 5515,
         "favorite": 991,
@@ -84,11 +84,11 @@
         "corrB": 44.92
     },
     {
-        "id": 933708059,
+        "id": null,
         "title": "沉于星河",
         "isCover": false,
+        "date": "2021-10-22 18:10",
         "rank": 7,
-        "date": "2021/10/22 18:10",
         "point": 45657,
         "view": 4618,
         "favorite": 852,
@@ -98,11 +98,11 @@
         "corrB": 46.12
     },
     {
-        "id": 840428043,
+        "id": null,
         "title": "哈利波特学院印象曲·格兰芬多",
         "isCover": false,
+        "date": "2020-04-25 12:00",
         "rank": 8,
-        "date": "2020/04/25 12:00",
         "point": 35553,
         "view": 30969,
         "favorite": 1340,
@@ -112,11 +112,11 @@
         "corrB": 10.82
     },
     {
-        "id": 336052587,
+        "id": null,
         "title": "银烛秋光",
         "isCover": false,
+        "date": "2021-10-15 18:30",
         "rank": 9,
-        "date": "2021/10/15 18:30",
         "point": 34289,
         "view": 11351,
         "favorite": 1016,
@@ -126,11 +126,11 @@
         "corrB": 22.38
     },
     {
-        "id": 763456444,
+        "id": null,
         "title": "终于把自己杀死了的我",
         "isCover": true,
+        "date": "2021-10-05 16:05",
         "rank": 10,
-        "date": "2021/10/05 16:05",
         "point": 26536,
         "view": 11878,
         "favorite": 831,
@@ -140,11 +140,11 @@
         "corrB": 17.49
     },
     {
-        "id": 43426592,
+        "id": null,
         "title": "勾指起誓",
         "isCover": false,
+        "date": "2019-02-13 22:09",
         "rank": 11,
-        "date": "2019/02/13 22:09",
         "point": 21846,
         "view": 41108,
         "favorite": 946,
@@ -154,11 +154,11 @@
         "corrB": 5.75
     },
     {
-        "id": 633627548,
+        "id": null,
         "title": "梦星球",
         "isCover": false,
+        "date": "2021-10-22 19:00",
         "rank": 12,
-        "date": "2021/10/22 19:00",
         "point": 21305,
         "view": 2297,
         "favorite": 398,
@@ -168,11 +168,11 @@
         "corrB": 43.32
     },
     {
-        "id": 463275800,
+        "id": null,
         "title": "杀死那个莫斯科人",
         "isCover": true,
+        "date": "2021-10-02 12:41",
         "rank": 13,
-        "date": "2021/10/02 12:41",
         "point": 20251,
         "view": 16490,
         "favorite": 652,
@@ -182,11 +182,11 @@
         "corrB": 9.88
     },
     {
-        "id": 421295219,
+        "id": null,
         "title": "无名之辈",
         "isCover": true,
+        "date": "2021-10-24 06:30",
         "rank": 14,
-        "date": "2021/10/24 06:30",
         "point": 16818,
         "view": 5113,
         "favorite": 453,
@@ -196,11 +196,11 @@
         "corrB": 22.15
     },
     {
-        "id": 378852617,
+        "id": null,
         "title": "射日行",
         "isCover": true,
+        "date": "2021-10-26 00:05",
         "rank": 15,
-        "date": "2021/10/26 00:05",
         "point": 16260,
         "view": 10412,
         "favorite": 399,
@@ -210,11 +210,11 @@
         "corrB": 9.58
     },
     {
-        "id": 806070175,
+        "id": null,
         "title": "想成为你的神明大人",
         "isCover": true,
+        "date": "2021-10-10 17:00",
         "rank": 16,
-        "date": "2021/10/10 17:00",
         "point": 14699,
         "view": 3956,
         "favorite": 403,
@@ -224,11 +224,11 @@
         "corrB": 25.47
     },
     {
-        "id": 293808438,
+        "id": null,
         "title": "春日纪行",
         "isCover": true,
+        "date": "2021-10-25 10:39",
         "rank": 17,
-        "date": "2021/10/25 10:39",
         "point": 13171,
         "view": 1733,
         "favorite": 263,
@@ -238,11 +238,11 @@
         "corrB": 37.94
     },
     {
-        "id": 378109898,
+        "id": null,
         "title": "Time to Shine",
         "isCover": false,
+        "date": "2021-09-16 20:01",
         "rank": 18,
-        "date": "2021/09/16 20:01",
         "point": 12289,
         "view": 16553,
         "favorite": 444,
@@ -252,11 +252,11 @@
         "corrB": 6.71
     },
     {
-        "id": 976166856,
+        "id": null,
         "title": "浴血盛放",
         "isCover": false,
+        "date": "2021-10-24 12:25",
         "rank": 19,
-        "date": "2021/10/24 12:25",
         "point": 12280,
         "view": 7238,
         "favorite": 322,
@@ -266,11 +266,11 @@
         "corrB": 11.12
     },
     {
-        "id": 548260167,
+        "id": null,
         "title": "蝴蝶",
         "isCover": false,
+        "date": "2021-10-02 16:00",
         "rank": 20,
-        "date": "2021/10/02 16:00",
         "point": 11974,
         "view": 2251,
         "favorite": 289,
@@ -280,11 +280,11 @@
         "corrB": 32.1
     },
     {
-        "id": 888690256,
+        "id": null,
         "title": "哈利波特学院印象曲·霍格沃兹",
         "isCover": false,
+        "date": "2021-06-18 18:00",
         "rank": 21,
-        "date": "2021/06/18 18:00",
         "point": 11937,
         "view": 9312,
         "favorite": 344,
@@ -294,11 +294,11 @@
         "corrB": 9.24
     },
     {
-        "id": 285205499,
+        "id": null,
         "title": "我的悲伤是水做的",
         "isCover": false,
+        "date": "2020-04-10 18:10",
         "rank": 22,
-        "date": "2020/04/10 18:10",
         "point": 10277,
         "view": 9934,
         "favorite": 306,
@@ -308,11 +308,11 @@
         "corrB": 7.7
     },
     {
-        "id": 759691105,
+        "id": null,
         "title": "光",
         "isCover": false,
+        "date": "2021-08-12 10:00",
         "rank": 23,
-        "date": "2021/08/12 10:00",
         "point": 10198,
         "view": 11523,
         "favorite": 325,
@@ -322,11 +322,11 @@
         "corrB": 7.05
     },
     {
-        "id": 293758537,
+        "id": null,
         "title": "完结后的陌生人",
         "isCover": false,
+        "date": "2021-10-27 08:00",
         "rank": 24,
-        "date": "2021/10/27 08:00",
         "point": 10129,
         "view": 3629,
         "favorite": 269,
@@ -336,11 +336,11 @@
         "corrB": 1853.0
     },
     {
-        "id": 206229843,
+        "id": null,
         "title": "世界燃烧吧",
         "isCover": true,
+        "date": "2021-06-15 09:53",
         "rank": 25,
-        "date": "2021/06/15 09:53",
         "point": 9952,
         "view": 10979,
         "favorite": 308,
@@ -350,11 +350,11 @@
         "corrB": 7.01
     },
     {
-        "id": 421120575,
+        "id": null,
         "title": "失重博物馆",
         "isCover": true,
+        "date": "2021-10-16 22:00",
         "rank": 26,
-        "date": "2021/10/16 22:00",
         "point": 9051,
         "view": 2008,
         "favorite": 232,
@@ -364,11 +364,11 @@
         "corrB": 28.88
     },
     {
-        "id": 6009789,
+        "id": null,
         "title": "世末歌者",
         "isCover": false,
+        "date": "2016-08-25 22:15",
         "rank": 27,
-        "date": "2016/08/25 22:15",
         "point": 8836,
         "view": 10693,
         "favorite": 233,
@@ -378,11 +378,11 @@
         "corrB": 5.45
     },
     {
-        "id": 291530455,
+        "id": null,
         "title": "夏虫",
         "isCover": false,
+        "date": "2021-07-12 12:25",
         "rank": 28,
-        "date": "2021/07/12 12:25",
         "point": 8760,
         "view": 11490,
         "favorite": 232,
@@ -392,11 +392,11 @@
         "corrB": 5.05
     },
     {
-        "id": 675912246,
+        "id": null,
         "title": "一剪人间客",
         "isCover": false,
+        "date": "2021-10-06 17:00",
         "rank": 29,
-        "date": "2021/10/06 17:00",
         "point": 8330,
         "view": 5090,
         "favorite": 250,
@@ -406,11 +406,11 @@
         "corrB": 12.28
     },
     {
-        "id": 463706020,
+        "id": null,
         "title": "你唱的歌",
         "isCover": true,
+        "date": "2021-10-23 17:35",
         "rank": 30,
-        "date": "2021/10/23 17:35",
         "point": 7785,
         "view": 30,
         "favorite": 159,
@@ -423,8 +423,8 @@
         "id": 501456840,
         "title": "Prologue",
         "isCover": false,
+        "date": "2021-10-24 14:56",
         "rank": 37,
-        "date": "2021/10/24 14:56",
         "point": 6737,
         "view": 613,
         "favorite": 118,
@@ -437,8 +437,8 @@
         "id": 501456840,
         "title": "初恋摩天轮",
         "isCover": false,
+        "date": "2021-10-24 09:00",
         "rank": 69,
-        "date": "2021/10/24 09:00",
         "point": 3767,
         "view": 331,
         "favorite": 65,
@@ -451,8 +451,8 @@
         "id": 501456840,
         "title": "穿越次元与你相恋",
         "isCover": false,
+        "date": "2021-10-23 12:14",
         "rank": 138,
-        "date": "2021/10/23 12:14",
         "point": 2126,
         "view": 330,
         "favorite": 44,

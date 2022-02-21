@@ -1,10 +1,10 @@
 [
     {
-        "id": null,
+        "id": 459693843,
         "title": "哈利波特学院印象曲·拉文克劳",
         "isCover": false,
-        "rank": 0,
         "date": "2021-03-20 12:00",
+        "rank": 0,
         "point": 70768,
         "view": 55151,
         "favorite": 2815,
@@ -14,11 +14,11 @@
         "corrB": null
     },
     {
-        "id": null,
+        "id": 505732120,
         "title": "非结局",
         "isCover": false,
-        "rank": 1,
         "date": "2021-09-24 16:30",
+        "rank": 1,
         "point": 85694,
         "view": 35733,
         "favorite": 2912,
@@ -28,11 +28,11 @@
         "corrB": 20.37
     },
     {
-        "id": null,
+        "id": 463298647,
         "title": "六州歌头·万历朝鲜役",
         "isCover": false,
-        "rank": 2,
         "date": "2021-09-30 21:54",
+        "rank": 2,
         "point": 60409,
         "view": 7255,
         "favorite": 1194,
@@ -42,11 +42,11 @@
         "corrB": 41.14
     },
     {
-        "id": null,
+        "id": 932966070,
         "title": "九歌·国殇",
         "isCover": false,
-        "rank": 3,
         "date": "2021-09-10 11:41",
+        "rank": 3,
         "point": 57355,
         "view": 25482,
         "favorite": 1923,
@@ -56,11 +56,11 @@
         "corrB": 18.87
     },
     {
-        "id": null,
+        "id": 720773075,
         "title": "越人歌",
         "isCover": false,
-        "rank": 4,
         "date": "2021-09-30 16:06",
+        "rank": 4,
         "point": 56329,
         "view": 5088,
         "favorite": 1002,
@@ -70,11 +70,11 @@
         "corrB": 49.23
     },
     {
-        "id": null,
+        "id": 420501796,
         "title": "独",
         "isCover": false,
-        "rank": 5,
         "date": "2021-09-20 14:50",
+        "rank": 5,
         "point": 45345,
         "view": 11587,
         "favorite": 1245,
@@ -84,11 +84,11 @@
         "corrB": 26.86
     },
     {
-        "id": null,
+        "id": 378109898,
         "title": "Time to Shine",
         "isCover": false,
-        "rank": 6,
         "date": "2021-09-16 20:01",
+        "rank": 6,
         "point": 41810,
         "view": 35508,
         "favorite": 1639,
@@ -98,11 +98,11 @@
         "corrB": 11.54
     },
     {
-        "id": null,
+        "id": 840428043,
         "title": "哈利波特学院印象曲·格兰芬多",
         "isCover": false,
-        "rank": 7,
         "date": "2020-04-25 12:00",
+        "rank": 7,
         "point": 40565,
         "view": 31615,
         "favorite": 1549,
@@ -112,11 +112,11 @@
         "corrB": 12.25
     },
     {
-        "id": null,
+        "id": 43426592,
         "title": "勾指起誓",
         "isCover": false,
-        "rank": 8,
         "date": "2019-02-13 22:09",
+        "rank": 8,
         "point": 26816,
         "view": 51165,
         "favorite": 1087,
@@ -126,11 +126,11 @@
         "corrB": 5.31
     },
     {
-        "id": null,
+        "id": 505507805,
         "title": "西行",
         "isCover": true,
-        "rank": 9,
         "date": "2021-09-17 17:35",
+        "rank": 9,
         "point": 25035,
         "view": 17598,
         "favorite": 859,
@@ -140,11 +140,11 @@
         "corrB": 12.2
     },
     {
-        "id": null,
+        "id": 43377419,
         "title": "自暴自弃",
         "isCover": false,
-        "rank": 10,
         "date": "2019-02-13 12:00",
+        "rank": 10,
         "point": 24582,
         "view": 13693,
         "favorite": 635,
@@ -154,11 +154,11 @@
         "corrB": 11.59
     },
     {
-        "id": null,
+        "id": 250718454,
         "title": "全糖迷醉综合症",
         "isCover": false,
-        "rank": 11,
         "date": "2021-09-26 11:53",
+        "rank": 11,
         "point": 23411,
         "view": 3378,
         "favorite": 505,
@@ -168,11 +168,11 @@
         "corrB": 37.37
     },
     {
-        "id": null,
+        "id": 805558027,
         "title": "丧钟鸣谁",
         "isCover": false,
-        "rank": 12,
         "date": "2021-09-19 19:30",
+        "rank": 12,
         "point": 23211,
         "view": 6995,
         "favorite": 659,
@@ -182,11 +182,11 @@
         "corrB": 23.55
     },
     {
-        "id": null,
+        "id": 335545389,
         "title": "歌剧魅影",
         "isCover": true,
-        "rank": 13,
         "date": "2021-09-27 00:00",
+        "rank": 13,
         "point": 18853,
         "view": 3990,
         "favorite": 467,
@@ -196,11 +196,11 @@
         "corrB": 29.26
     },
     {
-        "id": null,
+        "id": 847837460,
         "title": "麻痹处理",
         "isCover": false,
-        "rank": 14,
         "date": "2021-09-11 19:00",
+        "rank": 14,
         "point": 17602,
         "view": 3847,
         "favorite": 447,
@@ -210,11 +210,11 @@
         "corrB": 29.05
     },
     {
-        "id": null,
+        "id": 762862251,
         "title": "恋爱CHOCO",
         "isCover": false,
-        "rank": 15,
         "date": "2021-09-05 10:00",
+        "rank": 15,
         "point": 16721,
         "view": 3016,
         "favorite": 396,
@@ -224,11 +224,11 @@
         "corrB": 32.82
     },
     {
-        "id": null,
+        "id": 975284002,
         "title": "直到流星死去",
         "isCover": false,
-        "rank": 16,
         "date": "2021-09-04 16:30",
+        "rank": 16,
         "point": 16213,
         "view": 3344,
         "favorite": 411,
@@ -238,11 +238,11 @@
         "corrB": 30.73
     },
     {
-        "id": null,
+        "id": 718299733,
         "title": "外婆的家",
         "isCover": false,
-        "rank": 17,
         "date": "2021-09-28 17:31",
+        "rank": 17,
         "point": 15492,
         "view": 1594,
         "favorite": 282,
@@ -252,11 +252,11 @@
         "corrB": 44.23
     },
     {
-        "id": null,
+        "id": 675233259,
         "title": "饿魔烧酒",
         "isCover": false,
-        "rank": 18,
         "date": "2021-09-01 18:30",
+        "rank": 18,
         "point": 15234,
         "view": 12924,
         "favorite": 469,
@@ -266,11 +266,11 @@
         "corrB": 9.07
     },
     {
-        "id": null,
+        "id": 975819343,
         "title": "谓剑",
         "isCover": true,
-        "rank": 19,
         "date": "2021-09-30 17:35",
+        "rank": 19,
         "point": 15037,
         "view": 3300,
         "favorite": 378,
@@ -280,11 +280,11 @@
         "corrB": 28.64
     },
     {
-        "id": null,
+        "id": 335131083,
         "title": "荒唐",
         "isCover": false,
-        "rank": 20,
         "date": "2021-09-03 18:00",
+        "rank": 20,
         "point": 13690,
         "view": 5817,
         "favorite": 420,
@@ -294,11 +294,11 @@
         "corrB": 19.05
     },
     {
-        "id": null,
+        "id": 805437131,
         "title": "热伤风",
         "isCover": false,
-        "rank": 21,
         "date": "2021-09-10 17:05",
+        "rank": 21,
         "point": 13688,
         "view": 7039,
         "favorite": 417,
@@ -308,11 +308,11 @@
         "corrB": 14.81
     },
     {
-        "id": null,
+        "id": 675557557,
         "title": "是包子仙不是本子仙",
         "isCover": false,
-        "rank": 22,
         "date": "2021-09-19 15:15",
+        "rank": 22,
         "point": 12948,
         "view": 4440,
         "favorite": 377,
@@ -322,11 +322,11 @@
         "corrB": 21.23
     },
     {
-        "id": null,
+        "id": 799277283,
         "title": "洗脑日记",
         "isCover": false,
-        "rank": 23,
         "date": "2021-02-22 17:00",
+        "rank": 23,
         "point": 12207,
         "view": 5970,
         "favorite": 382,
@@ -336,11 +336,11 @@
         "corrB": 16.0
     },
     {
-        "id": null,
+        "id": 759683572,
         "title": "余灰尽晓",
         "isCover": false,
-        "rank": 24,
         "date": "2021-08-09 12:00",
+        "rank": 24,
         "point": 12204,
         "view": 8959,
         "favorite": 348,
@@ -350,11 +350,11 @@
         "corrB": 9.71
     },
     {
-        "id": null,
+        "id": 285205499,
         "title": "我的悲伤是水做的",
         "isCover": false,
-        "rank": 25,
         "date": "2020-04-10 18:10",
+        "rank": 25,
         "point": 12161,
         "view": 13969,
         "favorite": 409,
@@ -364,11 +364,11 @@
         "corrB": 7.32
     },
     {
-        "id": null,
+        "id": 291530455,
         "title": "夏虫",
         "isCover": false,
-        "rank": 26,
         "date": "2021-07-12 12:25",
+        "rank": 26,
         "point": 11577,
         "view": 14193,
         "favorite": 281,
@@ -378,11 +378,11 @@
         "corrB": 4.95
     },
     {
-        "id": null,
+        "id": 206884150,
         "title": "无衣",
         "isCover": false,
-        "rank": 27,
         "date": "2021-07-25 11:02",
+        "rank": 27,
         "point": 11233,
         "view": 7972,
         "favorite": 298,
@@ -392,11 +392,11 @@
         "corrB": 9.35
     },
     {
-        "id": null,
+        "id": 250392356,
         "title": "冻夏",
         "isCover": false,
-        "rank": 28,
         "date": "2021-09-11 20:10",
+        "rank": 28,
         "point": 10273,
         "view": 5236,
         "favorite": 301,
@@ -406,11 +406,11 @@
         "corrB": 14.37
     },
     {
-        "id": null,
+        "id": 632698626,
         "title": "未命名色彩",
         "isCover": false,
-        "rank": 29,
         "date": "2021-08-31 12:20",
+        "rank": 29,
         "point": 10068,
         "view": 1700,
         "favorite": 235,
@@ -420,11 +420,11 @@
         "corrB": 34.56
     },
     {
-        "id": null,
+        "id": 335132186,
         "title": "予海",
         "isCover": false,
-        "rank": 30,
         "date": "2021-08-31 13:00",
+        "rank": 30,
         "point": 9484,
         "view": 3626,
         "favorite": 280,
@@ -434,11 +434,11 @@
         "corrB": 19.31
     },
     {
-        "id": null,
+        "id": 335822343,
         "title": "白云与梦",
         "isCover": false,
-        "rank": 32,
         "date": "2021-09-30 17:00",
+        "rank": 32,
         "point": 9300,
         "view": 717,
         "favorite": 162,
@@ -448,11 +448,11 @@
         "corrB": 50.0
     },
     {
-        "id": null,
+        "id": 720658660,
         "title": "叭哒啦嘛",
         "isCover": false,
-        "rank": 36,
         "date": "2021-09-25 14:50",
+        "rank": 36,
         "point": 7320,
         "view": 942,
         "favorite": 148,
@@ -462,11 +462,11 @@
         "corrB": 39.28
     },
     {
-        "id": null,
+        "id": 633253900,
         "title": "黎明前的黑暗之安",
         "isCover": false,
-        "rank": 41,
         "date": "2021-09-30 22:25",
+        "rank": 41,
         "point": 6080,
         "view": 535,
         "favorite": 105,
@@ -476,11 +476,11 @@
         "corrB": 49.07
     },
     {
-        "id": null,
+        "id": 335780684,
         "title": "提线傀儡",
         "isCover": false,
-        "rank": 118,
         "date": "2021-09-29 11:54",
+        "rank": 118,
         "point": 2408,
         "view": 490,
         "favorite": 56,

@@ -1,10 +1,10 @@
 [
     {
-        "id": null,
+        "id": 456354727,
         "title": "牵一半",
         "isCover": false,
-        "rank": 1,
         "date": "2020-07-10 20:00",
+        "rank": 1,
         "point": 302943,
         "view": 26146,
         "favorite": 5405,
@@ -14,11 +14,11 @@
         "corrB": 50.0
     },
     {
-        "id": null,
+        "id": 626169599,
         "title": "相信自己",
         "isCover": true,
-        "rank": 2,
         "date": "2020-07-04 11:03",
+        "rank": 2,
         "point": 129298,
         "view": 64445,
         "favorite": 4469,
@@ -28,11 +28,11 @@
         "corrB": 17.34
     },
     {
-        "id": null,
+        "id": 838675102,
         "title": "I CAN'T BREATHE",
         "isCover": false,
-        "rank": 3,
         "date": "2020-06-26 12:00",
+        "rank": 3,
         "point": 126309,
         "view": 29605,
         "favorite": 3502,
@@ -42,11 +42,11 @@
         "corrB": 29.57
     },
     {
-        "id": null,
+        "id": 841267523,
         "title": "流星车手",
         "isCover": false,
-        "rank": 4,
         "date": "2020-07-10 06:30",
+        "rank": 4,
         "point": 102982,
         "view": 7381,
         "favorite": 1830,
@@ -56,11 +56,11 @@
         "corrB": 50.0
     },
     {
-        "id": null,
+        "id": 328733575,
         "title": "内里珠光贝",
         "isCover": false,
-        "rank": 5,
         "date": "2020-07-04 17:45",
+        "rank": 5,
         "point": 82895,
         "view": 9317,
         "favorite": 1606,
@@ -70,11 +70,11 @@
         "corrB": 43.09
     },
     {
-        "id": null,
+        "id": 328751398,
         "title": "言传",
         "isCover": false,
-        "rank": 6,
         "date": "2020-07-11 00:00",
+        "rank": 6,
         "point": 81173,
         "view": 5415,
         "favorite": 1433,
@@ -87,8 +87,8 @@
         "id": 43426592,
         "title": "勾指起誓",
         "isCover": false,
-        "rank": 7,
         "date": "2019-02-13 22:09",
+        "rank": 7,
         "point": 79857,
         "view": 72390,
         "favorite": 2196,
@@ -98,11 +98,11 @@
         "corrB": 7.58
     },
     {
-        "id": null,
+        "id": 413715397,
         "title": "她失去的重要的东西",
         "isCover": false,
-        "rank": 8,
         "date": "2020-06-27 16:00",
+        "rank": 8,
         "point": 73985,
         "view": 34030,
         "favorite": 2594,
@@ -112,11 +112,11 @@
         "corrB": 19.06
     },
     {
-        "id": null,
+        "id": 201239318,
         "title": "低等欲望",
         "isCover": false,
-        "rank": 9,
         "date": "2020-07-01 6:52",
+        "rank": 9,
         "point": 50886,
         "view": 10281,
         "favorite": 1268,
@@ -129,8 +129,8 @@
         "id": 968725471,
         "title": "平行",
         "isCover": false,
-        "rank": 10,
         "date": "2020-07-03 19:00",
+        "rank": 10,
         "point": 47242,
         "view": 3965,
         "favorite": 838,
@@ -140,11 +140,11 @@
         "corrB": 50.0
     },
     {
-        "id": null,
+        "id": 626231894,
         "title": "雨水正月中",
         "isCover": false,
-        "rank": 11,
         "date": "2020-07-04 09:30",
+        "rank": 11,
         "point": 43035,
         "view": 4156,
         "favorite": 785,
@@ -154,11 +154,11 @@
         "corrB": 47.22
     },
     {
-        "id": null,
+        "id": 78977256,
         "title": "万古生香",
         "isCover": false,
-        "rank": 12,
         "date": "2020-01-24 22:54",
+        "rank": 12,
         "point": 40842,
         "view": 54223,
         "favorite": 1304,
@@ -168,11 +168,11 @@
         "corrB": 6.01
     },
     {
-        "id": null,
+        "id": 838709427,
         "title": "琉璃光岛",
         "isCover": false,
-        "rank": 13,
         "date": "2020-07-05 17:00",
+        "rank": 13,
         "point": 38623,
         "view": 5691,
         "favorite": 832,
@@ -182,11 +182,11 @@
         "corrB": 36.55
     },
     {
-        "id": null,
+        "id": 456346515,
         "title": "无名画家与旷世之作",
         "isCover": false,
-        "rank": 14,
         "date": "2020-07-10 12:00",
+        "rank": 14,
         "point": 38372,
         "view": 2784,
         "favorite": 673,
@@ -196,11 +196,11 @@
         "corrB": 50.0
     },
     {
-        "id": null,
+        "id": 285205499,
         "title": "我的悲伤是水做的",
         "isCover": false,
-        "rank": 15,
         "date": "2020-04-10 18:10",
+        "rank": 15,
         "point": 36504,
         "view": 19332,
         "favorite": 1234,
@@ -210,11 +210,11 @@
         "corrB": 15.96
     },
     {
-        "id": null,
+        "id": 668723095,
         "title": "Soda dream",
         "isCover": false,
-        "rank": 16,
         "date": "2020-07-03 22:24",
+        "rank": 16,
         "point": 34276,
         "view": 3600,
         "favorite": 647,
@@ -224,11 +224,11 @@
         "corrB": 44.93
     },
     {
-        "id": null,
+        "id": 667873249,
         "title": "肮脏的神",
         "isCover": false,
-        "rank": 17,
         "date": "2020-04-21 20:00",
+        "rank": 17,
         "point": 33534,
         "view": 23663,
         "favorite": 1197,
@@ -238,11 +238,11 @@
         "corrB": 12.65
     },
     {
-        "id": null,
+        "id": 838701671,
         "title": "Forever",
         "isCover": false,
-        "rank": 18,
         "date": "2020-07-04 17:16",
+        "rank": 18,
         "point": 32052,
         "view": 2732,
         "favorite": 550,
@@ -252,11 +252,11 @@
         "corrB": 50.0
     },
     {
-        "id": null,
+        "id": 710967569,
         "title": "神不肯说",
         "isCover": false,
-        "rank": 19,
         "date": "2020-06-11 5:09",
+        "rank": 19,
         "point": 31571,
         "view": 32770,
         "favorite": 1171,
@@ -266,11 +266,11 @@
         "corrB": 8.93
     },
     {
-        "id": null,
+        "id": 201243193,
         "title": "未曾开花的夏日",
         "isCover": false,
-        "rank": 20,
         "date": "2020-07-04 11:20",
+        "rank": 20,
         "point": 31273,
         "view": 3564,
         "favorite": 608,
@@ -280,11 +280,11 @@
         "corrB": 42.65
     },
     {
-        "id": null,
+        "id": 413429090,
         "title": "可以恋爱",
         "isCover": false,
-        "rank": 21,
         "date": "2020-06-16 12:00",
+        "rank": 21,
         "point": 28670,
         "view": 5440,
         "favorite": 703,
@@ -294,11 +294,11 @@
         "corrB": 32.31
     },
     {
-        "id": null,
+        "id": 883861259,
         "title": "咫尺孤岛",
         "isCover": false,
-        "rank": 22,
         "date": "2020-07-06 09:30",
+        "rank": 22,
         "point": 26444,
         "view": 2125,
         "favorite": 461,
@@ -308,11 +308,11 @@
         "corrB": 50.0
     },
     {
-        "id": null,
+        "id": 96469168,
         "title": "为人师表",
         "isCover": true,
-        "rank": 23,
         "date": "2020-03-07 10:46",
+        "rank": 23,
         "point": 25298,
         "view": 6391,
         "favorite": 676,
@@ -322,11 +322,11 @@
         "corrB": 26.44
     },
     {
-        "id": null,
+        "id": 36570568,
         "title": "冠世一战",
         "isCover": false,
-        "rank": 24,
         "date": "2019-02-04 21:00",
+        "rank": 24,
         "point": 23902,
         "view": 32901,
         "favorite": 584,
@@ -336,11 +336,11 @@
         "corrB": 4.44
     },
     {
-        "id": null,
+        "id": 668757812,
         "title": "唇语",
         "isCover": true,
-        "rank": 25,
         "date": "2020-07-08 11:30",
+        "rank": 25,
         "point": 22808,
         "view": 1628,
         "favorite": 398,
@@ -350,11 +350,11 @@
         "corrB": 50.0
     },
     {
-        "id": null,
+        "id": 2129461,
         "title": "普通DISCO",
         "isCover": false,
-        "rank": 26,
         "date": "2015-03-21 10:01",
+        "rank": 26,
         "point": 20424,
         "view": 59197,
         "favorite": 875,
@@ -364,11 +364,11 @@
         "corrB": 3.7
     },
     {
-        "id": null,
+        "id": 3905462,
         "title": "九九八十一",
         "isCover": false,
-        "rank": 27,
         "date": "2016-02-22 0:00",
+        "rank": 27,
         "point": 20280,
         "view": 35622,
         "favorite": 643,
@@ -378,11 +378,11 @@
         "corrB": 4.51
     },
     {
-        "id": null,
+        "id": 328598122,
         "title": "假装清醒",
         "isCover": false,
-        "rank": 28,
         "date": "2020-06-24 17:15",
+        "rank": 28,
         "point": 20086,
         "view": 9003,
         "favorite": 611,
@@ -392,11 +392,11 @@
         "corrB": 16.97
     },
     {
-        "id": null,
+        "id": 413715969,
         "title": "好字唯之",
         "isCover": true,
-        "rank": 29,
         "date": "2020-06-30 23:00",
+        "rank": 29,
         "point": 19499,
         "view": 6841,
         "favorite": 564,
@@ -406,11 +406,11 @@
         "corrB": 20.61
     },
     {
-        "id": null,
+        "id": 89744912,
         "title": "讲真的",
         "isCover": true,
-        "rank": 30,
         "date": "2020-02-18 12:05",
+        "rank": 30,
         "point": 18722,
         "view": 14702,
         "favorite": 576,
@@ -420,11 +420,11 @@
         "corrB": 9.79
     },
     {
-        "id": null,
+        "id": 286195909,
         "title": "极昼",
         "isCover": false,
-        "rank": 37,
         "date": "2020-07-06 2:11",
+        "rank": 37,
         "point": 13175,
         "view": 3208,
         "favorite": 325,
@@ -434,11 +434,11 @@
         "corrB": 24.33
     },
     {
-        "id": null,
+        "id": 243753480,
         "title": "我们所书写的",
         "isCover": false,
-        "rank": 144,
         "date": "2020-07-10 02:26",
+        "rank": 144,
         "point": 4876,
         "view": 368,
         "favorite": 83,
@@ -448,11 +448,11 @@
         "corrB": 50.0
     },
     {
-        "id": null,
+        "id": 498660632,
         "title": "暮暑余温",
         "isCover": false,
-        "rank": 173,
         "date": "2020-07-05 20:00",
+        "rank": 173,
         "point": 4260,
         "view": 1154,
         "favorite": 107,
@@ -462,11 +462,11 @@
         "corrB": 23.18
     },
     {
-        "id": null,
+        "id": 753789619,
         "title": "Beyond Your Sky",
         "isCover": false,
-        "rank": 237,
         "date": "2020-07-10 09:00",
+        "rank": 237,
         "point": 3086,
         "view": 213,
         "favorite": 54,
@@ -476,11 +476,11 @@
         "corrB": 50.0
     },
     {
-        "id": null,
+        "id": 328756381,
         "title": "蜉生",
         "isCover": false,
-        "rank": 264,
         "date": "2020-07-08 8:25",
+        "rank": 264,
         "point": 2655,
         "view": 291,
         "favorite": 50,

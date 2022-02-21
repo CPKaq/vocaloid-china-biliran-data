@@ -1,10 +1,10 @@
 [
     {
-        "id": 336052587,
+        "id": null,
         "title": "银烛秋光",
         "isCover": false,
-        "rank": 1,
         "date": "2021-10-15 18:30",
+        "rank": 1,
         "point": 74209,
         "view": 4093,
         "favorite": 1336,
@@ -14,11 +14,11 @@
         "corrB": 50.0
     },
     {
-        "id": 806070175,
+        "id": null,
         "title": "想成为你的神明大人",
         "isCover": true,
-        "rank": 2,
         "date": "2021-10-10 17:00",
+        "rank": 2,
         "point": 51025,
         "view": 6591,
         "favorite": 1052,
@@ -28,11 +28,11 @@
         "corrB": 39.9
     },
     {
-        "id": 763456444,
+        "id": null,
         "title": "终于把自己杀死的我",
         "isCover": true,
-        "rank": 3,
         "date": "2021-10-05 16:05",
+        "rank": 3,
         "point": 42981,
         "view": 14696,
         "favorite": 1295,
@@ -42,11 +42,11 @@
         "corrB": 22.03
     },
     {
-        "id": 250770472,
+        "id": null,
         "title": "Forever friends Yes!",
         "isCover": false,
-        "rank": 4,
         "date": "2021-10-02 20:55",
+        "rank": 4,
         "point": 42919,
         "view": 7209,
         "favorite": 992,
@@ -56,11 +56,11 @@
         "corrB": 34.4
     },
     {
-        "id": null,
+        "id": 459693843,
         "title": "哈利波特学院印象曲·拉文克劳",
         "isCover": false,
-        "rank": 5,
         "date": "2021-03-20 12:00",
+        "rank": 5,
         "point": 38813,
         "view": 34622,
         "favorite": 1480,
@@ -70,11 +70,11 @@
         "corrB": 10.69
     },
     {
-        "id": 721001791,
+        "id": null,
         "title": "愿做一只猫",
         "isCover": false,
-        "rank": 6,
         "date": "2021-10-13 17:00",
+        "rank": 6,
         "point": 33973,
         "view": 4148,
         "favorite": 687,
@@ -84,11 +84,11 @@
         "corrB": 41.41
     },
     {
-        "id": null,
+        "id": 720773075,
         "title": "越人歌",
         "isCover": false,
-        "rank": 7,
         "date": "2021-09-30 16:06",
+        "rank": 7,
         "point": 27896,
         "view": 6898,
         "favorite": 750,
@@ -98,11 +98,11 @@
         "corrB": 27.18
     },
     {
-        "id": 463551047,
+        "id": null,
         "title": "独活",
         "isCover": false,
-        "rank": 8,
         "date": "2021-10-14 10:45",
+        "rank": 8,
         "point": 26434,
         "view": 2618,
         "favorite": 485,
@@ -112,11 +112,11 @@
         "corrB": 46.4
     },
     {
-        "id": 505882309,
+        "id": null,
         "title": "你知道登机口在哪里吗",
         "isCover": false,
-        "rank": 9,
         "date": "2021-10-07 18:07",
+        "rank": 9,
         "point": 24849,
         "view": 6184,
         "favorite": 652,
@@ -126,11 +126,11 @@
         "corrB": 26.36
     },
     {
-        "id": null,
+        "id": 840428043,
         "title": "哈利波特学院印象曲·格兰芬多",
         "isCover": false,
-        "rank": 10,
         "date": "2020-04-25 12:00",
+        "rank": 10,
         "point": 24366,
         "view": 19153,
         "favorite": 849,
@@ -140,11 +140,11 @@
         "corrB": 11.08
     },
     {
-        "id": null,
+        "id": 505507805,
         "title": "西行",
         "isCover": true,
-        "rank": 11,
         "date": "2021-09-17 17:35",
+        "rank": 11,
         "point": 20921,
         "view": 12860,
         "favorite": 659,
@@ -154,11 +154,11 @@
         "corrB": 12.81
     },
     {
-        "id": 675912246,
+        "id": null,
         "title": "一剪人间客",
         "isCover": false,
-        "rank": 12,
         "date": "2021-10-06 17:00",
+        "rank": 12,
         "point": 20708,
         "view": 10672,
         "favorite": 637,
@@ -168,11 +168,11 @@
         "corrB": 14.92
     },
     {
-        "id": null,
+        "id": 420501796,
         "title": "独",
         "isCover": false,
-        "rank": 13,
         "date": "2021-09-20 14:50",
+        "rank": 13,
         "point": 20646,
         "view": 8221,
         "favorite": 226,
@@ -182,11 +182,11 @@
         "corrB": 19.04
     },
     {
-        "id": 6581190,
+        "id": null,
         "title": "雁去台",
         "isCover": false,
-        "rank": 14,
         "date": "2016-10-07 13:50",
+        "rank": 14,
         "point": 20066,
         "view": 5010,
         "favorite": 535,
@@ -196,11 +196,11 @@
         "corrB": 26.7
     },
     {
-        "id": 335953203,
+        "id": null,
         "title": "人生Online在线翻车",
         "isCover": false,
-        "rank": 15,
         "date": "2021-10-09 12:00",
+        "rank": 15,
         "point": 19616,
         "view": 1932,
         "favorite": 360,
@@ -210,11 +210,11 @@
         "corrB": 46.58
     },
     {
-        "id": null,
+        "id": 43426592,
         "title": "勾指起誓",
         "isCover": false,
-        "rank": 16,
         "date": "2019-02-13 22:09",
+        "rank": 16,
         "point": 18221,
         "view": 38707,
         "favorite": 794,
@@ -224,11 +224,11 @@
         "corrB": 5.13
     },
     {
-        "id": 976027648,
+        "id": null,
         "title": "苏幕遮",
         "isCover": true,
-        "rank": 17,
         "date": "2021-10-10 06:29",
+        "rank": 17,
         "point": 17216,
         "view": 2589,
         "favorite": 373,
@@ -238,11 +238,11 @@
         "corrB": 36.02
     },
     {
-        "id": 463275800,
+        "id": null,
         "title": "杀死那个莫斯科人",
         "isCover": true,
-        "rank": 18,
         "date": "2021-10-02 12:41",
+        "rank": 18,
         "point": 17082,
         "view": 12638,
         "favorite": 515,
@@ -252,11 +252,11 @@
         "corrB": 10.19
     },
     {
-        "id": 208579553,
+        "id": null,
         "title": "醒眠",
         "isCover": false,
-        "rank": 19,
         "date": "2021-10-15 15:45",
+        "rank": 19,
         "point": 14079,
         "view": 674,
         "favorite": 254,
@@ -266,11 +266,11 @@
         "corrB": 50.0
     },
     {
-        "id": 976004253,
+        "id": null,
         "title": "赤鸢词",
         "isCover": true,
-        "rank": 20,
         "date": "2021-10-12 19:30",
+        "rank": 20,
         "point": 13088,
         "view": 4708,
         "favorite": 366,
@@ -280,11 +280,11 @@
         "corrB": 19.44
     },
     {
-        "id": 759691105,
+        "id": null,
         "title": "光",
         "isCover": false,
-        "rank": 21,
         "date": "2021-08-12 10:00",
+        "rank": 21,
         "point": 11973,
         "view": 13300,
         "favorite": 395,
@@ -297,8 +297,8 @@
         "id": 285205499,
         "title": "我的悲伤是水做的",
         "isCover": false,
-        "rank": 22,
         "date": "2020-04-10 18:10",
+        "rank": 22,
         "point": 11881,
         "view": 11531,
         "favorite": 367,
@@ -308,11 +308,11 @@
         "corrB": 7.96
     },
     {
-        "id": 463535435,
+        "id": null,
         "title": "终于把VOCALOID杀死了的我们",
         "isCover": true,
-        "rank": 23,
         "date": "2021-10-10 21:56",
+        "rank": 23,
         "point": 11811,
         "view": 3350,
         "favorite": 303,
@@ -322,11 +322,11 @@
         "corrB": 22.61
     },
     {
-        "id": null,
+        "id": 505732120,
         "title": "非结局",
         "isCover": false,
-        "rank": 24,
         "date": "2021-09-24 16:30",
+        "rank": 24,
         "point": 11787,
         "view": 7807,
         "favorite": 320,
@@ -336,11 +336,11 @@
         "corrB": 10.25
     },
     {
-        "id": 206229843,
+        "id": null,
         "title": "世界燃烧吧",
         "isCover": true,
-        "rank": 25,
         "date": "2021-06-15 09:53",
+        "rank": 25,
         "point": 11456,
         "view": 9726,
         "favorite": 332,
@@ -350,11 +350,11 @@
         "corrB": 32.37
     },
     {
-        "id": 890762165,
+        "id": null,
         "title": "花束与捧花人",
         "isCover": false,
-        "rank": 26,
         "date": "2021-10-05 08:00",
+        "rank": 26,
         "point": 11230,
         "view": 2085,
         "favorite": 270,
@@ -364,11 +364,11 @@
         "corrB": 32.37
     },
     {
-        "id": 763400658,
+        "id": null,
         "title": "壳",
         "isCover": false,
-        "rank": 27,
         "date": "2021-10-09 19:00",
+        "rank": 27,
         "point": 11189,
         "view": 1055,
         "favorite": 200,
@@ -378,11 +378,11 @@
         "corrB": 47.39
     },
     {
-        "id": null,
+        "id": 378109898,
         "title": "Time to Shine",
         "isCover": false,
-        "rank": 28,
         "date": "2021-09-16 20:01",
+        "rank": 28,
         "point": 11179,
         "view": 11992,
         "favorite": 358,
@@ -392,11 +392,11 @@
         "corrB": 7.46
     },
     {
-        "id": null,
+        "id": 805558027,
         "title": "丧钟鸣谁",
         "isCover": false,
-        "rank": 29,
         "date": "2021-09-19 19:30",
+        "rank": 29,
         "point": 11141,
         "view": 4501,
         "favorite": 337,
@@ -406,11 +406,11 @@
         "corrB": 18.72
     },
     {
-        "id": 505834667,
+        "id": null,
         "title": "灯塔",
         "isCover": false,
-        "rank": 30,
         "date": "2021-10-02 18:00",
+        "rank": 30,
         "point": 10944,
         "view": 7163,
         "favorite": 285,
@@ -420,11 +420,11 @@
         "corrB": 9.95
     },
     {
-        "id": 251106717,
+        "id": null,
         "title": "未获奖感言",
         "isCover": false,
-        "rank": 32,
         "date": "2021-10-11 14:00",
+        "rank": 32,
         "point": 10201,
         "view": 1022,
         "favorite": 186,
@@ -434,11 +434,11 @@
         "corrB": 45.5
     },
     {
-        "id": 250936956,
+        "id": null,
         "title": "问月",
         "isCover": false,
-        "rank": 39,
         "date": "2021-10-07 20:55",
+        "rank": 39,
         "point": 7301,
         "view": 930,
         "favorite": 146,
@@ -448,11 +448,11 @@
         "corrB": 39.25
     },
     {
-        "id": 250849013,
+        "id": null,
         "title": "夏枯草",
         "isCover": false,
-        "rank": 77,
         "date": "2021-10-03 02:23",
+        "rank": 77,
         "point": 3459,
         "view": 319,
         "favorite": 62,
@@ -462,11 +462,11 @@
         "corrB": 48.59
     },
     {
-        "id": 633449990,
+        "id": null,
         "title": "雪割草の愿",
         "isCover": false,
-        "rank": 322,
         "date": "2021-10-07 11:44",
+        "rank": 322,
         "point": 3519,
         "view": 710,
         "favorite": 17,
