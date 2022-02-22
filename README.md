@@ -6,6 +6,12 @@
 
 用于数据爬取和整理的 Python 脚本在 [这里](https://github.com/CPKaq/vc-project-midango) 。
 
+## 使用方法
+
+* 现已加入 GitHub Pages 豪华午餐：通过 GET 方法访问 URL 可以获取 json 格式的数据文件：
+  * `https://cpk.moe/vocaloid-china-biliran-data/vc-weekly/{期号}.json`
+* 也可以直接 [Download ZIP](https://github.com/CPKaq/vocaloid-china-biliran-data/archive/refs/heads/main.zip) 下载当前已更新的所有文件到本地
+
 
 ## 数据格式
 
@@ -74,7 +80,7 @@
 
 * 如你所见，周刊的每个视频简介里都会留下 http://vc.biliran.moe/ 这个神秘的周刊官网地址。你说它停更了，但是它确实在定期更新内容（虽然常常比 B 站视频晚一两期）；你说它更新及时，但是网站页面布局全是旧的，刊娘画风和 B 站 logo 全是 2015 年以前的样子，甚至还挂着一个早就用不了的 “B 站视频专题” 链接……
     * 顺带一提，这一域名的主站 www.biliran.moe 在几年以前也确实是周刊哔哩哔哩排行榜的官网，但是不知道什么时候挂了（ [网页时光机](https://web.archive.org/web/20151025211010/http://www.biliran.moe/) ），倒是 VC 子站点还活到了现在……
-* 这些数据能不能做成 API？在学了在学了，下次一定做好
+* 这些数据能不能做成 API？~~在学了在学了，下次一定做好~~ 虽然没学，但是好像能用了
 * 2021 年 5 月刚开始收集数据时适逢萌百大规模 [WAF](https://zh.moegirl.org.cn/WAF%E5%A8%98) ，一度以为自己把萌百爬坏了
     * 2022 年 2 月对数据格式进行了一些修改，这时候萌百又在 WAF 了
 * ~~刊娘真可爱~~
