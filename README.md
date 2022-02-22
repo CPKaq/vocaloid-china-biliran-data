@@ -2,9 +2,9 @@
  
 从萌娘百科整理得到的 [周刊 VOCALOID 中文排行榜](https://space.bilibili.com/156489) 数据。
 
-数据格式为 json，每一期周刊单独存为一个文件。
+数据格式为 json，每一期周刊单独存为一个文件。目前统计了 **♪118–♪497** 的全部数据。
 
-目前统计了 ♪118–♪497 的全部数据。
+用于数据爬取和整理的 Python 脚本在 [这里](https://github.com/CPKaq/vc-project-midango) 。
 
 
 ## 数据格式
@@ -33,6 +33,7 @@
 参见萌娘百科模板页面 [Template:VOCALOID_Chinese_Ranking](https://zh.moegirl.org.cn/Template:VOCALOID_Chinese_Ranking) 。
 
 注：
+* **注意：Super Hit 曲目没有记录修正 A 和 修正 B 的数据**。
 * “评论权重” 在数值上等于 修正 A × 25 （`corrA * 25`）
 * “弹幕权重” 在数值上等于 修正 A （`corrA`）
 * “收藏权重” 在数值上等于 修正 B （`corrB`）
